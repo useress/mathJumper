@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\loban\source\repos\Rofl\main.cpp(160,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  10 of 233 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Rofl.vcxproj -> C:\Users\loban\source\repos\Rofl\x64\Release\Rofl.exe
