@@ -1,2 +1,1 @@
 C:\Users\loban\source\repos\Rofl\x64\Debug\Rofl.exe
-C:\Users\loban\source\repos\Rofl\x64\Release\Rofl.exe

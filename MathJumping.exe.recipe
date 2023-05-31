@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\loban\source\repos\Rofl\x64\Release\Rofl.exe</FullPath>
+      <FullPath>C:\Users\loban\source\repos\Rofl\x64\Debug\Rofl.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
